@@ -1,5 +1,39 @@
-BOBPlayer — paste this ONE playlist URL:
+YOUR GITHUB PLAYLISTS FOR BOBPLAYER
+Repo: https://github.com/yamenAl/pop-player
 
-https://iptv-org.github.io/iptv/index.m3u
+USE THESE URLs ON TV (jsdelivr — works like iptv-org, better than raw GitHub):
 
-(World + Arabic + movies + series + all categories in one file)
+Test (1 channel):
+https://cdn.jsdelivr.net/gh/yamenAl/pop-player@main/playlist-nasa.m3u
+
+Test (11 channels):
+https://cdn.jsdelivr.net/gh/yamenAl/pop-player@main/playlist-test.m3u
+
+Arabic only (~492 channels):
+https://cdn.jsdelivr.net/gh/yamenAl/pop-player@main/playlist-arabic.m3u
+
+Full world (~12,600 channels):
+https://cdn.jsdelivr.net/gh/yamenAl/pop-player@main/playlist.m3u
+
+---
+
+HOW TO ADD IN BOBPLAYER (on TV):
+1. Choose Your Playlist → + → General
+2. Playlist Name: e.g. "My GitHub"
+3. Playlist URL: paste one URL above
+4. Save → select playlist → Reload
+
+---
+
+ON bobplayer.com (website):
+Same URL in "Add Playlist" → leave Username/Password empty
+
+---
+
+IF jsdelivr does not work, try raw GitHub:
+https://raw.githubusercontent.com/yamenAl/pop-player/main/playlist-test.m3u
+
+---
+
+UPDATE YOUR PLAYLIST:
+Edit .m3u file on GitHub → git push → TV auto-gets new version on Reload
