@@ -1,0 +1,35 @@
+#EXTM3U
+# BOBPlayer TEST — small list, names + logos, all streams verified
+
+#EXTINF:-1 tvg-id="NASA" tvg-logo="https://i.imgur.com/UdRHNcE.png" group-title="1-News | أخبار",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="1-News | أخبار",Al Jazeera Arabic
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="1-News | أخبار",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="1-News | أخبار",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="1-News | أخبار",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-id="AlkassOne.qa@SD" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="2-Sports | رياضة",Alkass One (Qatar Sports)
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1 tvg-id="AlkassTwo.qa@SD" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="2-Sports | رياضة",Alkass Two (Qatar Sports)
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1 tvg-id="ArryadiaHD1.ma@HD" tvg-logo="https://i.ibb.co/fYNx6Fk1/image-removebg-preview-1.png" group-title="2-Sports | رياضة",Arryadia HD (Morocco Sports)
+https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="2-Sports | رياضة",Al Iraqia Sport
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="2-Sports | رياضة",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="2-Sports | رياضة",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
